@@ -1,0 +1,41 @@
+body {
+background: lightgrey;
+Color: black;
+font-family: Arial, Verdana, sans-serif;
+}
+
+header {
+float: left;
+width: 25%;
+}
+
+nav {
+float:right;
+margin:5em 3em 0 0;
+width:70%;
+}
+
+main {
+   clear:left;
+}
+
+#leftColumn {
+float: left;
+width: 45%;
+margin: 1%;
+}
+
+#rightColumn {
+float: right;
+width: 45%;
+margin: 1%
+}
+
+footer {
+clear:both;
+}
+
+.borderedImage {
+padding: 5px;
+margin: 10px;
+}
